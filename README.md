@@ -1,5 +1,5 @@
 # class-3-demo
 
-Goodbye, cruel world!!!
+Happy happy happy!
 
 This is a change to the README.
